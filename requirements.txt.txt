@@ -1,0 +1,13 @@
+ENGLISH
+
+Libraries needed: 
+discord (https://discordpy.readthedocs.io/en/stable/)
+random (Lib/random.py)
+re (Lib/re/)
+
+PORTUGUÊS
+
+Bibliotecas necessárias:
+discord (https://discordpy.readthedocs.io/en/stable/)
+random (Lib/random.py)
+re (Lib/re/)
